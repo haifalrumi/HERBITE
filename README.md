@@ -18,4 +18,3 @@ Technologies Used
 * PHP
 * MySQL
 * AJAX
-
